@@ -1,0 +1,11 @@
+{
+  "gameData" : 
+  {
+    "profileId" : 1
+  },
+  "master" : "",
+  "server-ip" : "26.155.185.91",
+  "server-master-key" : null,
+  "server-port" : 7777,
+  "show-me" : true
+}

@@ -1,15 +1,18 @@
 [
   {
     "name": "Vahlokar",
-    "ip": "74.248.20.155"
+    "ip": "74.248.20.155",
+    "clientBranch": "Client"
   },
   {
     "name": "Test",
     "ip": "26.153.200.71",
+    "clientBranch": "Client",
     "private": true
   },{
     "name": "Test2",
     "ip": "192.168.1.23",
+    "clientBranch": "Client",
     "private": true
   }
 ]

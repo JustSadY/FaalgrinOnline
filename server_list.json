@@ -10,6 +10,11 @@
       "id": "vahlokar",
       "name": "Vahlokar",
       "ip": "74.248.20.155",
+      "region": "Turkey",
+      "guildId": "1529112526896500736",
+      "loginRoleId": "1529118029810499718",
+      "boostRoleId": "1534373587002069044",
+      "banRoleId": "1537451636123893870",
       "clientBranch": "Client"
     },
     {

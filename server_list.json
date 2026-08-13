@@ -2,17 +2,27 @@
   {
     "name": "Vahlokar",
     "ip": "74.248.20.155",
-    "clientBranch": "Client"
+    "clientBranch": "Client",
+    "guildId": "default",
+    "loginRoleId": "default",
+    "banRoleId": "default"
   },
   {
     "name": "Test",
     "ip": "26.153.200.71",
     "clientBranch": "Client",
+    "guildId": "default",
+    "loginRoleId": "default",
+    "banRoleId": "default",
     "private": true
-  },{
+  },
+  {
     "name": "Test2",
     "ip": "192.168.1.23",
     "clientBranch": "Client",
+    "guildId": "default",
+    "loginRoleId": "default",
+    "banRoleId": "default",
     "private": true
   }
 ]

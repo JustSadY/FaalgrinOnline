@@ -1,28 +1,30 @@
-[
-  {
-    "name": "Vahlokar",
-    "ip": "74.248.20.155",
-    "clientBranch": "Client",
-    "guildId": "default",
-    "loginRoleId": "default",
-    "banRoleId": "default"
+{
+  "schemaVersion": 1,
+  "defaults": {
+    "guildId": "1510661299871420416",
+    "loginRoleId": "1510661613898825798",
+    "privateRoleId": "1510662192012460102"
   },
-  {
-    "name": "Test",
-    "ip": "26.153.200.71",
-    "clientBranch": "Client",
-    "guildId": "default",
-    "loginRoleId": "default",
-    "banRoleId": "default",
-    "private": true
-  },
-  {
-    "name": "Test2",
-    "ip": "192.168.1.23",
-    "clientBranch": "Client",
-    "guildId": "default",
-    "loginRoleId": "default",
-    "banRoleId": "default",
-    "private": true
-  }
-]
+  "servers": [
+    {
+      "id": "vahlokar",
+      "name": "Vahlokar",
+      "ip": "74.248.20.155",
+      "clientBranch": "Client"
+    },
+    {
+      "id": "test",
+      "name": "Test",
+      "ip": "26.153.200.71",
+      "clientBranch": "Client",
+      "private": true
+    },
+    {
+      "id": "test2",
+      "name": "Test2",
+      "ip": "192.168.1.23",
+      "clientBranch": "Client",
+      "private": true
+    }
+  ]
+}

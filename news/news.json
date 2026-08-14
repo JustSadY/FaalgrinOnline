@@ -17,6 +17,13 @@
         "content": "The following changes have been introduced with this update:\n\n- The camping system has been added.\n- The cost of setting up a camp has been set to 5 Wood + 5 Leather.\n- A camp menu has been added to the game.\n- A Fire Upgrade has been added for camps.\n- Camps will now break when they take damage.\n- A hunger system has been added.\n- Hunger now affects carrying capacity.\n- Issues causing monsters to become stuck in the environment have been partially resolved.\n- 10 new Hunting Spots have been added.\n- A graphics update has been introduced.\n- Emote icons have been updated with images featuring real players.\n- The Immersive Armors mod has been added, and its crafting recipes have been made more difficult for balancing purposes.\n- The Immersive Weapons mod has been added, and its crafting recipes have been made more difficult for balancing purposes.",
         "category": "PATCH",
         "author": "burakbel"
+      },
+      "ru": {
+        "title": "Примечания к патчу | 09.08.2026",
+        "summary": "Система лагерей, обновление графики и многое другое",
+        "content": "В этом обновлении были внесены следующие изменения:\n\n- Добавлена система лагерей.\n- Стоимость установки лагеря установлена на 5 единиц древесины + 5 единиц кожи.\n- В игру добавлено меню лагеря.\n- Для лагерей добавлено улучшение костра.\n- Теперь лагерь будет разрушаться при получении урона.\n- Добавлена система голода.\n- Уровень голода теперь влияет на переносимый вес.\n- Частично исправлена проблема, из-за которой монстры застревали в окружении.\n- Добавлено 10 новых мест для охоты.\n- Выполнено обновление графики.\n- Иконки эмоций обновлены и теперь используют изображения реальных игроков.\n- Добавлен мод Immersive Armors, а рецепты изготовления были усложнены для сохранения игрового баланса.\n- Добавлен мод Immersive Weapons, а рецепты изготовления были усложнены для сохранения игрового баланса.",
+        "category": "ПАТЧ",
+        "author": "burakbel"
       }
     },
     "image": "/v1/news-images/news-2-bfbc2ac8-2e35-40e3-b01a-f0c55245132b.jpg"
@@ -38,6 +45,13 @@
         "summary": "Our First Patch Notes",
         "content": "The following changes have been introduced with this update:\n\n- Server synchronization has been improved.\n- Issues with the parry system have been fixed.\n- Alchemy recipes have been reworked to improve game balance.\n- Cooking recipes have been redesigned to better align with character progression.\n- Armor crafting recipes have been reviewed and rebalanced.\n- UI flickering issues have been fixed.\n- The black screen issue encountered while connecting to the server has been significantly reduced.\n- Mods have been made compatible regardless of plugin load order.\n- Monster encounters have been added to 10 new caves.\n- The ESC menu has been redesigned.\n- Issues related to UI settings in the ESC menu have been fixed.\n- The user interface menu has been rebuilt from the ground up.\n- New emotes have been added.",
         "category": "PATCH",
+        "author": "burakbel"
+      },
+      "ru": {
+        "title": "Примечания к патчу | 31.07.2026",
+        "summary": "Наши первые примечания к патчу",
+        "content": "В этом обновлении были внесены следующие изменения:\n\n- Улучшена синхронизация с сервером.\n- Исправлены ошибки в системе парирования.\n- Рецепты алхимии были переработаны для улучшения игрового баланса.\n- Рецепты приготовления пищи были переработаны с учётом развития персонажа.\n- Рецепты изготовления брони были пересмотрены и перебалансированы.\n- Исправлена проблема с мерцанием пользовательского интерфейса.\n- Проблема чёрного экрана при подключении к серверу была значительно уменьшена.\n- Моды были адаптированы для работы независимо от порядка загрузки плагинов.\n- В 10 новых пещерах добавлены места появления монстров.\n- Меню ESC было переработано.\n- Исправлены ошибки, связанные с настройками интерфейса в меню ESC.\n- Меню пользовательского интерфейса было полностью переработано.\n- Добавлены новые эмоции.",
+        "category": "ПАТЧ",
         "author": "burakbel"
       }
     },

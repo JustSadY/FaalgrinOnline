@@ -1,0 +1,43 @@
+[
+  {
+    "id": 2,
+    "date": "2026-08-09",
+    "author": "justsady",
+    "translations": {
+      "en": {
+        "title": "Selam",
+        "summary": "asda",
+        "content": "asdasd \\n asdasdasd",
+        "category": "asdasdasd",
+        "author": "justsady"
+      },
+      "tr": {
+        "title": "Yama Notları | 09.08.2026",
+        "summary": "Kamp, UI Ve Dahası",
+        "content": "a",
+        "category": "YAMA",
+        "author": "burakbel"
+      }
+    },
+    "image": "/v1/news-images/news-2-bfbc2ac8-2e35-40e3-b01a-f0c55245132b.jpg"
+  },
+  {
+    "id": 1,
+    "date": "2026-07-31",
+    "author": "justsady",
+    "translations": {
+      "tr": {
+        "title": "Yama Notları | 31.07.2026",
+        "summary": "Ilk Yama Notlari",
+        "content": "Bu güncellemeyle birlikte aşağıdaki değişiklikler uygulandı:\\n\\n- Sunucu senkronizasyonu iyileştirildi.\\n- Parry sistemindeki hatalar giderildi.\\n- Simya tarifleri, oyun dengesini iyileştirmek amacıyla yeniden düzenlendi.\\n- Aşçılık tarifleri, karakter gelişimine uygun biçimde yeniden planlandı.\\n- Zırh üretim tarifleri gözden geçirilerek yeniden düzenlendi.\\n- Arayüzde meydana gelen titreşim sorunu giderildi.\\n- Sunucuya bağlanırken karşılaşılan siyah ekran sorunu büyük ölçüde giderildi.\\n- Modlar, plugin sıralamasından bağımsız çalışacak şekilde uyumlu hâle getirildi.\\n- 10 yeni mağaraya canavar yerleşimleri eklendi.\\n- ESC menüsü yeniden düzenlendi.\\n- ESC menüsündeki arayüz ayarlarıyla ilgili hatalar giderildi.\\n- Kullanıcı arayüzü menüsü baştan inşa edildi.\\n- Yeni emote’lar eklendi.",
+        "category": "yama",
+        "author": "burakbel"
+      },
+      "en": {
+        "author": "burakbel",
+        "content": "Sunucu senkronizasyonu iyileştirildi. Parry sistemindeki hatalar giderildi. Simya tarifleri, oyun dengesini iyileştirmek amacıyla yeniden düzenlendi. Aşçılık tarifleri, karakter gelişimine uygun biçimde yeniden planlanarak uygulandı. Zırh üretim tarifleri gözden geçirilerek yeniden düzenlendi. Arayüzde meydana gelen titreşim sorunu giderildi. Sunucuya bağlanırken karşılaşılan siyah ekran sorunu büyük ölçüde giderildi. Modlar, plugin sıralamasından bağımsız çalışacak şekilde uyumlu hâle getirildi. 10 yeni mağaraya canavar yerleşimleri yapıldı. ESC menüsü yeniden düzenlendi. ESC menüsündeki arayüz ayarlarıyla ilgili hatalar giderildi. Kullanıcı arayüzü menüsü baştan inşa edildi. Yeni emote’lar eklendi."
+      }
+    },
+    "image": "/v1/news-images/news-1-c11bcd53-93b0-4df2-958e-93f062df29b7.png"
+  }
+]

@@ -4,18 +4,18 @@
     "date": "2026-08-09",
     "author": "justsady",
     "translations": {
-      "en": {
-        "title": "Selam",
-        "summary": "asda",
-        "content": "- Kampçılık sistemi eklendi.\n\n- Kamp kurma maliyeti 5 Odun + 5 Deri olarak ayarlandı.\n\n- Kamp menüsü oyuna eklendi.\n\n- Kamplar için Ateş Yükseltmesi eklendi.\n\n- Kamplar, bir saldırı aldığında kırılacak şekilde ayarlandı.\n\n- Açlık sistemi eklendi.\n\n- Açlık durumu, taşıma kapasitesini etkileyecek şekilde düzenlendi.\n\n- Canavarların takılma sorunu belli ölçüde giderildi.\n\n- 10 yeni Hunting Spot eklendi.\n\n- Grafik güncellemesi getirildi.\n\n- Emote ikonları gerçek oyuncu görüntüleriyle yenilendi.\n\n- Immersive Armors modu eklendi ve üretim tarifleri dengeleme amacıyla zorlaştırıldı.\n\n- Immersive Weapons modu eklendi ve üretim tarifleri dengeleme amacıyla zorlaştırıldı.",
-        "category": "asdasdasd",
-        "author": "burakbel"
-      },
       "tr": {
         "title": "Yama Notları | 09.08.2026",
-        "summary": "Kamp, UI Ve Dahası",
-        "content": "a",
+        "summary": "Kampçılık, Grafik Güncellemesi ve Daha Fazlası",
+        "content": "Bu güncellemeyle birlikte aşağıdaki değişiklikler uygulandı:\n\n- Kampçılık sistemi eklendi.\n- Kamp kurma maliyeti 5 Odun + 5 Deri olarak ayarlandı.\n- Kamp menüsü oyuna eklendi.\n- Kamplar için Ateş Yükseltmesi eklendi.\n- Kamplar, saldırı aldıklarında kırılacak şekilde ayarlandı.\n- Açlık sistemi eklendi.\n- Açlık durumu, taşıma kapasitesini etkileyecek şekilde düzenlendi.\n- Canavarların çevreye takılma sorunu belirli ölçüde giderildi.\n- 10 yeni Hunting Spot eklendi.\n- Grafik güncellemesi yapıldı.\n- Emote ikonları gerçek oyuncu görüntüleriyle yenilendi.\n- Immersive Armors modu eklendi ve üretim tarifleri oyun dengesini korumak amacıyla zorlaştırıldı.\n- Immersive Weapons modu eklendi ve üretim tarifleri oyun dengesini korumak amacıyla zorlaştırıldı.",
         "category": "YAMA",
+        "author": "burakbel"
+      },
+      "en": {
+        "title": "Patch Notes | 09.08.2026",
+        "summary": "Camping, Graphics Update and More",
+        "content": "The following changes have been introduced with this update:\n\n- The camping system has been added.\n- The cost of setting up a camp has been set to 5 Wood + 5 Leather.\n- A camp menu has been added to the game.\n- A Fire Upgrade has been added for camps.\n- Camps will now break when they take damage.\n- A hunger system has been added.\n- Hunger now affects carrying capacity.\n- Issues causing monsters to become stuck in the environment have been partially resolved.\n- 10 new Hunting Spots have been added.\n- A graphics update has been introduced.\n- Emote icons have been updated with images featuring real players.\n- The Immersive Armors mod has been added, and its crafting recipes have been made more difficult for balancing purposes.\n- The Immersive Weapons mod has been added, and its crafting recipes have been made more difficult for balancing purposes.",
+        "category": "PATCH",
         "author": "burakbel"
       }
     },
@@ -28,14 +28,17 @@
     "translations": {
       "tr": {
         "title": "Yama Notları | 31.07.2026",
-        "summary": "Ilk Yama Notlari",
-        "content": "Bu güncellemeyle birlikte aşağıdaki değişiklikler uygulandı:\\n\\n- Sunucu senkronizasyonu iyileştirildi.\\n- Parry sistemindeki hatalar giderildi.\\n- Simya tarifleri, oyun dengesini iyileştirmek amacıyla yeniden düzenlendi.\\n- Aşçılık tarifleri, karakter gelişimine uygun biçimde yeniden planlandı.\\n- Zırh üretim tarifleri gözden geçirilerek yeniden düzenlendi.\\n- Arayüzde meydana gelen titreşim sorunu giderildi.\\n- Sunucuya bağlanırken karşılaşılan siyah ekran sorunu büyük ölçüde giderildi.\\n- Modlar, plugin sıralamasından bağımsız çalışacak şekilde uyumlu hâle getirildi.\\n- 10 yeni mağaraya canavar yerleşimleri eklendi.\\n- ESC menüsü yeniden düzenlendi.\\n- ESC menüsündeki arayüz ayarlarıyla ilgili hatalar giderildi.\\n- Kullanıcı arayüzü menüsü baştan inşa edildi.\\n- Yeni emote’lar eklendi.",
-        "category": "yama",
+        "summary": "İlk Yama Notları",
+        "content": "Bu güncellemeyle birlikte aşağıdaki değişiklikler uygulandı:\n\n- Sunucu senkronizasyonu iyileştirildi.\n- Parry sistemindeki hatalar giderildi.\n- Simya tarifleri, oyun dengesini iyileştirmek amacıyla yeniden düzenlendi.\n- Aşçılık tarifleri, karakter gelişimine uygun biçimde yeniden planlandı.\n- Zırh üretim tarifleri gözden geçirilerek yeniden düzenlendi.\n- Arayüzde meydana gelen titreşim sorunu giderildi.\n- Sunucuya bağlanırken karşılaşılan siyah ekran sorunu büyük ölçüde giderildi.\n- Modlar, plugin sıralamasından bağımsız çalışacak şekilde uyumlu hâle getirildi.\n- 10 yeni mağaraya canavar yerleşimleri eklendi.\n- ESC menüsü yeniden düzenlendi.\n- ESC menüsündeki arayüz ayarlarıyla ilgili hatalar giderildi.\n- Kullanıcı arayüzü menüsü baştan inşa edildi.\n- Yeni emote'lar eklendi.",
+        "category": "YAMA",
         "author": "burakbel"
       },
       "en": {
-        "author": "burakbel",
-        "content": "Sunucu senkronizasyonu iyileştirildi. Parry sistemindeki hatalar giderildi. Simya tarifleri, oyun dengesini iyileştirmek amacıyla yeniden düzenlendi. Aşçılık tarifleri, karakter gelişimine uygun biçimde yeniden planlanarak uygulandı. Zırh üretim tarifleri gözden geçirilerek yeniden düzenlendi. Arayüzde meydana gelen titreşim sorunu giderildi. Sunucuya bağlanırken karşılaşılan siyah ekran sorunu büyük ölçüde giderildi. Modlar, plugin sıralamasından bağımsız çalışacak şekilde uyumlu hâle getirildi. 10 yeni mağaraya canavar yerleşimleri yapıldı. ESC menüsü yeniden düzenlendi. ESC menüsündeki arayüz ayarlarıyla ilgili hatalar giderildi. Kullanıcı arayüzü menüsü baştan inşa edildi. Yeni emote’lar eklendi."
+        "title": "Patch Notes | 31.07.2026",
+        "summary": "Our First Patch Notes",
+        "content": "The following changes have been introduced with this update:\n\n- Server synchronization has been improved.\n- Issues with the parry system have been fixed.\n- Alchemy recipes have been reworked to improve game balance.\n- Cooking recipes have been redesigned to better align with character progression.\n- Armor crafting recipes have been reviewed and rebalanced.\n- UI flickering issues have been fixed.\n- The black screen issue encountered while connecting to the server has been significantly reduced.\n- Mods have been made compatible regardless of plugin load order.\n- Monster encounters have been added to 10 new caves.\n- The ESC menu has been redesigned.\n- Issues related to UI settings in the ESC menu have been fixed.\n- The user interface menu has been rebuilt from the ground up.\n- New emotes have been added.",
+        "category": "PATCH",
+        "author": "burakbel"
       }
     },
     "image": "/v1/news-images/news-1-c11bcd53-93b0-4df2-958e-93f062df29b7.png"

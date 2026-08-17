@@ -15,23 +15,20 @@
       "loginRoleId": "1529118029810499718",
       "boostRoleId": "1534373587002069044",
       "banRoleId": "1537451636123893870",
-      "clientBranch": "Client",
-      "modpackBranch": "Modpack"
+      "cdnUrl": "https://cdn.faalgrin.com"
     },
     {
       "id": "test",
       "name": "Test",
       "ip": "26.153.200.71",
-      "clientBranch": "Client",
-      "modpackBranch": "Modpack",
+      "cdnUrl": "https://cdn.faalgrin.com",
       "private": true
     },
     {
       "id": "test2",
       "name": "Test2",
       "ip": "192.168.1.23",
-      "clientBranch": "Client",
-      "modpackBranch": "Modpack",
+      "cdnUrl": "https://cdn.faalgrin.com",
       "private": true
     }
   ]

@@ -18,6 +18,13 @@
       "cdnUrl": "https://cdn.faalgrin.com"
     },
     {
+      "id": "globaltest",
+      "name": "GlobalTest",
+      "ip": "74.248.20.155",
+      "cdnUrl": "https://pub-35289da842834b70b17e7266f8ecf079.r2.dev",
+      "private": true
+    },
+    {
       "id": "test",
       "name": "Test",
       "ip": "26.153.200.71",

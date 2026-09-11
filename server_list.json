@@ -16,7 +16,8 @@
       "boostRoleId": "1534373587002069044",
       "banRoleId": "1537451636123893870",
       "privateRoleId": "1547293618161852516",
-      "cdnUrl": "https://cdn.faalgrin.com"
+      "cdnUrl": "https://cdn.faalgrin.com",
+      "contentCdnUrl": "https://ec0f85d3960e6d0e8821ee2beac4a8cf.r2.cloudflarestorage.com/newfaalgrin"
     },
     {
       "id": "globaltest",

@@ -16,22 +16,6 @@
     "image": "/v1/news-images/news-4-e4bc91f1-d779-453a-be11-76f30447e301.png"
   },
   {
-    "id": 3,
-    "date": "2026-10-09",
-    "status": "published",
-    "author": "hakankan",
-    "translations": {
-      "en": {
-        "title": "Faalgrin Açık Beta V2 | 06.10.2026",
-        "summary": "Sunucumuzun yeniden açılmasıyla kapsamlı güncelleme gerçekleştirildi!\n\nPerk ağaçları ve karakter gelişimi yenilendi.\nYeni modlar, animasyonlar ve etkileşimler eklendi.\nEşya eskimesi ve tamir sistemi getirildi.\nYemek, üretim, demircilik ve madencilik sistemleri düzenlendi.\nYeni tarifler, kostümler ve eşyalar eklendi.\nFalkreath, Winterhold ve Dawnstar yeniden inşa edildi.\nOptimizasyon, hata düzeltmeleri ve teknik iyileştirmeler yapıldı.\nDaha birçok yenilik sizleri bekliyor!\n\nHerkese iyi roller!",
-        "content": "Güncelleme",
-        "category": "Güncelleme",
-        "author": "hakankan"
-      }
-    },
-    "image": "/v1/news-images/news-3-6777e395-d3a8-4b50-aa2a-00ec16dbfa7d.png"
-  },
-  {
     "id": 2,
     "date": "2026-08-09",
     "author": "justsady",

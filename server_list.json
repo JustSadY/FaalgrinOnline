@@ -22,7 +22,7 @@
     {
       "id": "globaltest",
       "name": "GlobalTest",
-      "ip": "92.5.13.171",
+      "ip": "194.146.36.39",
       "cdnUrl": "https://pub-35289da842834b70b17e7266f8ecf079.r2.dev",
       "private": true
     },

@@ -1,5 +1,21 @@
 [
   {
+    "id": 5,
+    "date": "2026-10-30",
+    "status": "published",
+    "author": "hakankan",
+    "translations": {
+      "en": {
+        "title": "FAALGRIN ONLINE | GÜNCELLEME NOTLARI | 30.10.2026",
+        "summary": "Sunucumuzda gerçekleştirdiğimiz kapsamlı güncelleme çalışmalarıyla birlikte birçok yeni sistem, animasyon ve teknik iyileştirme oyuna eklenmiştir.",
+        "content": "Değerli Faalgrin Online oyuncuları,\n\nSunucumuzda gerçekleştirdiğimiz kapsamlı güncelleme çalışmalarıyla birlikte birçok yeni sistem, animasyon ve teknik iyileştirme oyuna eklenmiştir.\n\nYeni Sistemler ve İçerikler\nEvcil Hayvan Sistemi: Oyuncularımızın maceralarına eşlik edebilecek yeni evcil hayvan sistemi eklenmiştir.\nEv Tasarlama Sistemi: Oyuncularımızın evlerini kişiselleştirebilmelerine ve kendi yaşam alanlarını düzenleyebilmelerine olanak sağlayan yeni sistem eklenmiştir.\nGünlük Ödül Sistemi: Oyuncularımızın günlük olarak ödüller kazanabileceği yeni sistem eklenmiştir.\nResim Çizme Mekaniği: Oyun içerisinde resim çizilebilmesini sağlayan yeni mekanik eklenmiştir.\n\nRol Yapma ve İletişim Sistemleri\n/pm Komutu: Oyuncular arasında özel mesajlaşmayı sağlayan /pm komutu eklenmiştir.\n3D /me ve /do Komutları: /me ve /do komutlarıyla gerçekleştirilen rol ifadeleri artık sohbet ekranının yanı sıra karakterlerin kafalarının üzerinde de 3D olarak görüntülenecektir.\nYazı Yazma Göstergesi: Oyuncular mesaj yazarken karakterlerinin üzerinde otomatik olarak \"...\" animasyonu görüntülenecektir.\nSarılma Mekaniği: X menüsüne sarılma seçeneği eklenmiştir. Oyuncular artık bu menü üzerinden sarılma etkileşimini gerçekleştirebilecektir.\nMuhafız Bağlama Mekaniği: Muhafızların oyuncuları bağlayabilmesi için X menüsüne yeni bir seçenek eklenmiştir.\n\nSavaş ve Animasyon İyileştirmeleri\nYeni Saldırı Animasyonları: Silah türleri için yeni saldırı animasyonları eklenmiştir.\nYeni Yürüme Animasyonları: Karakter hareketlerini daha doğal hale getiren yeni yürüme animasyonları eklenmiştir.\nCombat İyileştirmeleri: Savaşların daha akıcı ve stabil ilerlemesi amacıyla çeşitli düzenlemeler gerçekleştirilmiştir.\n\nTeknik Düzenlemeler ve Yönetim Sistemleri\nDinamik Tarif Sistemi: Oyun içerisindeki tüm üretim tarifleri, sunucu güncellemesi veya yama beklenmeden anlık olarak değiştirilebilecek şekilde düzenlenmiştir.\nDinamik Silah ve Zırh Dengesi: Tüm silah türlerinin hasar değerleri ve zırhların koruma değerleri, yama gerektirmeden anlık olarak ayarlanabilecek hale getirilmiştir.\nDinamik Stat ve Etki Düzenlemeleri: Oyun içerisindeki istatistiklerin ve çeşitli etkilerin daha hızlı düzenlenebilmesi için altyapı iyileştirmeleri gerçekleştirilmiştir.",
+        "category": "Güncelleme",
+        "author": "hakankan"
+      }
+    },
+    "image": "/v1/news-images/news-5-b72911c3-81f4-4df7-a94d-b6f84c1f505c.png"
+  },
+  {
     "id": 4,
     "date": "2026-10-09",
     "status": "published",
